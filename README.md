@@ -85,3 +85,37 @@ Through this project, I practiced:
 - Store records permanently using files or a database
 - Add more sorting options
 - Improve input validation
+- 
+## 📄 Project Output
+
+The complete program output is available in the PDF below:
+
+[View Project Output PDF](./Student%20Record%20Manager%20output.pdf)
+
+## 📸 Sample Output
+
+The program provides a menu-based interface for managing student records.
+
+Main features demonstrated in the output include:
+
+- Add new student
+- Display all students
+- Delete student
+- Search student
+- Sort student records
+- Linear Search
+- Binary Search
+
+## 🎯 Learning Outcomes
+
+Through this project, I practiced:
+
+- C++ programming
+- Arrays
+- Structures
+- Functions
+- Searching algorithms
+- Sorting algorithms
+- Time complexity
+- Menu-driven programming
+- Data structure concepts
